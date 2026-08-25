@@ -4,8 +4,6 @@
 
 This pipeline reconstructs sentence-level, BIO-tagged data from the **ANCHOLIK-NER** dataset for the **Sylheti** and **Chittagonian** dialects, applies global cross-dialect deduplication and leakage guards, and produces train/val/test splits used to train and compare **mBERT**, **BanglaBERT**, and **BanglaBERT + Focal Loss** token-classification models.
 
-> 🔗 Companion project: [`M-T/`](../M-T/) — the generative-NLP (dialect → Standard Bangla Machine Translation) half of the same thesis.
-
 ---
 
 ## Table of Contents
