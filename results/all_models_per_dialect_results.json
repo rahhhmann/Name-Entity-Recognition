@@ -1,0 +1,50 @@
+{
+  "mBERT_CE": {
+    "Sylheti": {
+      "f1_macro": 0.7261566185782214,
+      "precision_macro": 0.7224087354733298,
+      "recall_macro": 0.7466879604560764
+    },
+    "Chittagonian": {
+      "f1_macro": 0.5751100736004857,
+      "precision_macro": 0.5499283677940555,
+      "recall_macro": 0.6558885558885559
+    }
+  },
+  "BanglaBERT_CE": {
+    "Sylheti": {
+      "f1_macro": 0.7317959521112435,
+      "precision_macro": 0.7656415551243136,
+      "recall_macro": 0.7471686928208667
+    },
+    "Chittagonian": {
+      "f1_macro": 0.5802812093853285,
+      "precision_macro": 0.5620872585579432,
+      "recall_macro": 0.6567303067303069
+    }
+  },
+  "BanglaBERT_Focal": {
+    "Sylheti": {
+      "f1_macro": 0.7765512793261914,
+      "precision_macro": 0.7633400344511456,
+      "recall_macro": 0.8056558310181497
+    },
+    "Chittagonian": {
+      "f1_macro": 0.6243688956782667,
+      "precision_macro": 0.6211319544652878,
+      "recall_macro": 0.6961963961963963
+    }
+  },
+  "BanglaBERT_Mixed": {
+    "Sylheti": {
+      "f1_macro": 0.7765512793261914,
+      "precision_macro": 0.7633400344511456,
+      "recall_macro": 0.8056558310181497
+    },
+    "Chittagonian": {
+      "f1_macro": 0.6243688956782667,
+      "precision_macro": 0.6211319544652878,
+      "recall_macro": 0.6961963961963963
+    }
+  }
+}

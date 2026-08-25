@@ -1,0 +1,671 @@
+{"dialect": "Chittagonian", "tokens": ["আবেগর", "ভালোবাসা", "হনিক্কারে", "দন", "উছিত", "নয়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চবি", "তোলার", "ফর", "আঁরে", "কেন", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেগুনের", "হাছে", "মানুষ", "হননা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরে", "ডাইক্কো"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতারা", "জানিবের", "হতা", "নো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বাংলাদেশঅর", "ফ্রদানমন্ত্রির", "নাম", "কি"], "tags": ["B-LOC", "B-ROLE", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["উনির", "ফোয়ারিত", "হনিক্কের", "এল্লে", "সম্পর্ক", "নাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কেলার", "মাডত", "আযিয়া", "বউত", "মানুষ"], "tags": ["B-LOC", "I-LOC", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "জামাই", "আরে", "ফসন্দ", "গরিয়েরে", "বিয়া", "গইজ্জে"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরেক্কেনা", "ডর", "অই", "গেইলে", "কেন", "গরিবা", "ইন", "দেহার", "বিষয়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "সরিষার", "তেলর", "মাছ", "ভাজা", "হাইতে", "বহুত", "গম", "লাগে", "দে"], "tags": ["O", "B-FOOD", "I-FOOD", "B-FOOD", "I-FOOD", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "আর", "আর", "ছোড", "বইন", "ইবা", "আজিয়া", "হালামনির", "বাসাত", "ঘুইরত", "জাইব", "দে"], "tags": ["O", "O", "O", "B-REL", "I-REL", "O", "O", "B-LOC", "I-LOC", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "অনরতুন", "ওজ্ঞা", "কিচ্চা", "ফুইন্তো", "চাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আহো", "গুন্ডি", "উড়াই"], "tags": ["O", "B-OBJ", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এই", "হাম্মান", "গড়ে", "দেও"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শুক্কুর", "আর", "শনিবার", "সাপ্তাহিক", "চুটির", "দিন"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোয়ার", "ফোয়ারিত", "দেহা", "অইলেই", "ফুরান", "ইতিহাস", "মনত", "ফরে", "দে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাওন", "শেষ", "গরে", "তহন", "ইতার", "মিক্কে", "গিল"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাসফাতালত", "আগে", "আই", "নো", "যাই"], "tags": ["B-ORG", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মিরফুর", "তাকি"], "tags": ["B-LOC", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "আব্বার", "এরিম্মা", "হারাপ", "দে", "ফুলের", "টোকাও", "নো", "দে"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "কি", "সকালত", "উদিয়েররে", "চা", "হাইবা", "না"], "tags": ["O", "O", "O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফোয়াইবার", "ঘটনা", "ফুনি", "আরা", "তারে", "সাহায্য", "গইজ্জি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "হোন্ডা", "যাইবে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোঁয়ার", "মাইয়্যা", "আঁর", "কোল", "অত", "আই", "শুদু", "তোঁয়ারে", "তোয়াই", "ফঁল্লাই"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোঁয়ার", "গানওর", "গলা", "বউত", "বালা"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সাত", "বচর", "ফর", "তোয়াই", "পায়্যি", "আঁর", "ফ্রিয়", "গানইবা"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "কি", "হনো", "গান", "অত", "নাচিত", "ফার", "অন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরে", "বই", "ইবা", "দেহা"], "tags": ["O", "B-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আজিয়া", "ভাইর", "দেইকখি"], "tags": ["O", "B-REL", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "ন", "হইবা"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চল", "আরা", "বেয়াক্কুন", "গান", "গাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরা", "বেজ্ঞুন", "এক্কোফোয়ারে", "আশি", "কুশি", "গরি", "সময়", "হডাই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "ফসন্দ", "অয়", "এইল্লে", "ফোয়া", "আর", "বাবা", "মায়ের", "ফসন্দ", "ন", "অয়"], "tags": ["O", "O", "O", "O", "O", "O", "B-REL", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "আত্তান", "দরি", "সাম্ম্র", "ফতঅত", "আগায়", "চলো", "ফিচন", "ফিরি", "আর", "আঁরা", "ন", "চাইয়্যুম"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["একগাট্টি", "বেডিওক্কল", "রাস্তাত", "আডের"], "tags": ["O", "O", "B-LOC", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "আছিলাম"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "এগিন", "এক্কানাও", "গম", "ন", "লাগের"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হনো", "উফায়", "নো", "ফাই", "যে", "কি", "কইজ্জুম"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাজার", "হইলেও", "ইতি", "মারে", "লই", "কিছু", "নো", "হই"], "tags": ["O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "ফ্রিও", "এক্কান", "বই", "আসিল"], "tags": ["O", "O", "O", "B-OBJ", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেশ", "পছন্দ", "গরি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোয়ার", "ফরিবার", "আর", "বাবার", "ফোয়ারিত", "হতা", "হত", "চাইয়ে"], "tags": ["O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দেহা", "গরীরটো", "আইসে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দয়া", "গরি", "তুই", "তোওয়ার", "ফরিবারর", "ফসন্দ", "মতন", "বিয়া", "গরি", "ফেলো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অঁনোরার", "অযোগ্য", "ফোয়া"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইয়েন", "লইয়েরে", "বেঝাল", "নো", "গরি", "আই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেয়াক্কুন", "যেই", "সমত", "ফড়তে", "বইয়ে", "বাজীপ", "তহন", "ঘুমাদ্দে"], "tags": ["O", "O", "O", "O", "O", "B-PER", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরা", "বেয়াক্কুন", "গতহালিয়া", "বাইরে", "গেইলাম"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরে", "বেজ্ঞুনর", "সাম্মে", "মারি", "মারি", "বারিত", "লই", "আইস্যে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চাদর", "মিষ্টি", "আলো", "দেখিতাম", "আর", "বহুত", "ভালো", "লাগে", "দে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "কুব", "গরম", "লাগের"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরে", "বাল", "না", "বাসো", "কিল্লাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেজ্ঞুন", "আযি", "যা", "গই"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "একযন", "ফ্রফেশনাল", "ব্লগার", "হিসাবে", "হায", "গরির"], "tags": ["O", "O", "B-ROLE", "I-ROLE", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "আযিয়া", "বেইন্না", "আঁর", "বন্দুর", "লই", "গুইর", "ত", "গেইলাম"], "tags": ["O", "O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইচ্ছে", "আসিল", "হোনো", "মিক্কে", "ঘুইরতু", "যাইয়্যুম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "আগেই", "হয়্যি", "তুঁই", "চারা", "এই", "দুনিয়াত", "আঁর", "আর", "কিচু", "নাই"], "tags": ["O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "আর", "হতা", "ন", "হইবা"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফিরি", "আইসি"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মনঅত", "ফরি", "যা", "গই", "আঁর", "বালবাসার", "মানুষসার", "হতা"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দেহিত", "ফারি"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "বিয়েত্তে"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "অনরে", "দইন্যবাদ", "জানাতাম", "চাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শুধু", "তার", "আতর", "মিক্কে", "সাই", "তাকিলাম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোঁয়ারে", "লই", "আঁর", "বেজ্ঞিন", "কল্ফনা"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুঁই", "কি", "বাংলা", "গান", "ফুনিত", "ফারো"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সে", "তোয়ার", "লাই", "বেক", "কিছু", "গরিত্তারে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মাইয়াফোয়াা", "ইবা", "আরে", "ন", "চিনে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বাবা", "বই", "ইবা", "বুক", "শেল্ফত", "তুলি", "রাইক্কিলো"], "tags": ["B-REL", "B-OBJ", "O", "B-OBJ", "I-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বালবাসা", "মানে", "একজন", "আরেকজন", "অরে", "বুজিত", "ফারা"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "হাইয়ুম"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শেষ", "ওই", "গিয়োই"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "কি", "ওজ্ঞা", "বাংলা", "নাটক", "দেইত", "ফার", "অন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চোকর", "চাম্মে", "যারারে", "দেহন", "তারারে", "আগামি", "হালিয়া", "দেহিবান", "কিনা", "তারও", "হনো", "নিচ্চয়তা", "নেই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাইতো", "পছন্দ", "গরি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বহুত", "রাত", "অইয়ে", "এহন", "আর", "ভই", "ছোডউওা", "ঘুমাইবেল্লাই", "জাইব", "দে"], "tags": ["O", "O", "O", "O", "O", "B-REL", "I-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "লই", "বয়্যুন"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফোয়াওক্কলেরে", "একমাত্র", "তার", "মার", "কোলঅতই", "মানায়"], "tags": ["O", "O", "O", "B-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বন্ধু", "আরে", "ওগগা", "লাল", "গোলাপ", "কিনি", "দিয়িএ"], "tags": ["B-REL", "O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরে", "লই", "বিদেশত", "গুইরত", "যাইবা", "নে"], "tags": ["O", "O", "B-LOC", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "গাড়িয়ান", "গতো", "হালিয়া", "চুরি", "ওইয়ে"], "tags": ["O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হারি", "গিয়ি"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "অনর", "ফরিবারসহ", "আঁরার", "বাসাত", "আইবান"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরা", "অফেক্ষা", "কইজ্জুম"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যেত্তে", "হনো", "ফুরুষ", "হনো", "নারিরে", "বালবাসে", "এত্তে", "ইতে", "ইবার", "লাই", "বেজ্ঞিন", "গরিত", "ফারে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অফমান", "গরিয়ে"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "ভোইন", "কিল্লাই", "এই", "ফোতত", "ফা", "বাড়াইয়ে", "জানাজানি", "অইলে", "কেনে", "মুখ", "দেহাইয়ুম", "সেই", "চিন্তায়", "গুম", "যাইন্নফারির"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "মনে", "হদ্দে", "আর", "কিছু", "মনোত", "নাই"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দয়া", "গরিয়েরে", "ফরামর্শ", "দোন", "বিয়ার", "ফরদ্দি", "কি", "তার", "ফরিবার", "হোন", "সমইস্যা", "গরিত্তারে", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "বোকা", "কোন", "বিষয়ে", "নো", "জানে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ঘুমোদ্দে", "কিল্লায়"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরার", "এলাকাত", "কেরাসিনর", "দাম", "বারি", "গিয়ি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হনোদিন", "নো", "ভাবি", "এইল্লে", "গরি", "পোস্ট", "গরন", "ফরিবো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বাপ্রে", "বাপ", "হত্ত", "ডর", "মিসিল"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কি", "হবর", "তুয়ার"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "আর", "সাধ্য", "মত", "চেষ্টা", "গরি", "বাফোর", "হোয", "হোবর", "লইবেল্লাই"], "tags": ["O", "O", "O", "O", "O", "O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["লাল", "রঙের", "শাড়ি", "ফরি", "আর", "লই", "দেহা"], "tags": ["B-COL", "I-COL", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "সত্যি", "খুব", "অসহায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "আম", "হাইয়্যুম"], "tags": ["O", "B-FOOD", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরে", "সকালোত", "হিছু", "খাইত", "গম", "নো", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শীতর", "সকাল", "বউত", "সুন্দর"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বিয়া", "অইয়েেদে", "দেড়", "বছর"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "এক্কান", "কটিন", "সমস্যা", "লই", "আযির", "অয়্যি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["টাং", "টনটন", "গরের"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["স্কুলত", "যাই"], "tags": ["B-ORG", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চুললিন", "বহুত", "লম্বা"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "দুইজ্জা", "হায়ও", "নে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরার", "গ্রামর", "বারির", "বহুত", "কুরর", "সা", "আসে", "দে"], "tags": ["O", "B-LOC", "I-LOC", "O", "B-ANI", "I-ANI", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "লাই", "ফরিচয়", "ওই", "বহুত", "বালা", "লাইগগে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "মযার", "মযার", "হতা", "ফুনিলে", "আরাদিন", "মন", "বালা", "তাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইয়ানত", "কিছু", "এক্কান", "লেহের"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "এক্কানা", "ইক্কা", "আইত্তারিবান", "না"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "আঁর", "লাই", "হনো", "সুন্দর", "উফার", "কিনিত", "ফারিবি", "নে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "বর", "বইনর", "কি", "বিয়া", "অই", "গেইয়্যুয়", "নে"], "tags": ["O", "B-REL", "I-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "নিযর", "ফরিবার", "লই", "বয়্যুন"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কিছু", "কিনো", "দিতু", "চাইলে", "কোনো", "মিক্কা", "ঘুরাবাইলার", "লই", "যাইত", "চাইলে", "ইবার", "ভালাগরি", "ন", "লই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "বউ", "দেহিতও", "সুন্দর"], "tags": ["O", "B-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আইযহাল", "ফরাশোনার", "চাপ", "বউত", "বেশি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফাশর", "বারির", "মাইফোয়া", "ইবেরে", "গম", "লাইগ্যিল", "ফরে", "জানিলাম", "ইবা", "চুটির", "দিনঅত", "ও", "কলেজঅত", "যাই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যিবন", "অইলদি", "বাচার", "লাই"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বেয়াক", "শেষ", "অই", "গিয়ি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কেন", "আচো"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["গল্ফর", "হতা", "যেত্তে", "আইয়্যে", "এত্তেই", "আঁরার", "গুরা", "ফোয়াওক্কল", "অর", "হতা", "মনোত", "ফরে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "বাসার", "হাজর", "মাইফোয়া", "ইবা", "ইয়া", "গম", "গরি", "হাজ", "গরিত", "ন", "ফারে"], "tags": ["O", "O", "B-ROLE", "I-ROLE", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "বাপ", "মার", "যেহেতু", "সফ্ন"], "tags": ["O", "B-REL", "B-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বদলাই", "যার", "আরার", "খেলার", "মাঠ", "ইন", "নো"], "tags": ["O", "O", "O", "B-LOC", "I-LOC", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এক্কান", "ভালা", "হাম", "গরিত্তারিবান্না"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আম্মুর", "লাই", "বেশি", "ফেট", "ফূরের"], "tags": ["B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "এহনেত্তুন", "সিদ্ধান্ত", "লইয়ি", "আর", "হনিক্কের", "হতা", "নো", "ফুইন্নুম"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দোর", "ওই", "তিয়ায়", "আছিলাম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তাহের", "বইওয়া", "কি", "আঁরে", "দিত", "ফারিবি", "নি"], "tags": ["O", "B-OBJ", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "বোত", "বেলা", "গরি", "ঘুম", "যায়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আম্মু", "ফাকঘরত", "বইয়েরে", "কুরর", "মাংস", "ফাকের"], "tags": ["B-REL", "B-LOC", "O", "B-FOOD", "I-FOOD", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "মাযেমদ্যে", "গান", "ফুনি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বিয়ার", "হইলো", "বরর", "বাড়ি", "আসে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সে", "হইয়েদে", "সমইস্যা", "নাই"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুঁই", "হদ্দে", "নে", "যে", "তাইবার", "ইতে", "এনেই", "তাকিবো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "মাইফোয়াইবার", "ফোয়ারে", "যোগাযোগ", "গরে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "ডোর", "না"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সে", "গোডা", "দিন", "হত", "হস্ট", "গরের"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হান", "ফানা", "অয়", "ফোড়া", "ফানা", "অয়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আব্বা", "কি", "গরে"], "tags": ["B-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যতদিন", "এই", "দুনিয়াত", "থাইক্কুম", "তোয়ারে", "মনত", "রাইক্ষুম"], "tags": ["O", "O", "B-LOC", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ঘরর", "জিনিশফত্র", "রাকিবেল্লাই", "স্টোররুম", "দরহার"], "tags": ["O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফাশ", "গরা", "ডাক্তর", "এহন", "বালা", "অবস্তাত", "নেই"], "tags": ["O", "O", "B-ROLE", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফেসবুক", "অত", "ইতার", "একজন", "অর", "ফোয়ারে", "সম্ফর্ক", "অয়"], "tags": ["B-ORG", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বাড়ির", "ফিসনত", "এক্কা", "ডর", "নারিকেলর", "গাছ", "আসিল"], "tags": ["O", "O", "O", "O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফ্রিয়", "ফল"], "tags": ["O", "B-FOOD"]}
+{"dialect": "Chittagonian", "tokens": ["একদিন", "বিবেগর", "ভালোবাসার", "হাসে", "আবেগর", "ভালোবাসা", "হারি", "জাইব", "দে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেগগিন", "গরিত", "ফারি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "বালবাসার", "মানুষঅর", "ফোয়ারে", "আঁর", "বিয়া", "অইয়্যে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["লোক", "দেহানো", "অয়", "গিয়োই", "নে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "কি", "হনো", "অত্তে", "বাংলাদেশ", "গুইরতো", "গেইলি", "নে"], "tags": ["O", "O", "O", "O", "B-LOC", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "অনরে", "হনো", "অত্তে", "ন", "বুইল্লম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "চবি", "দেকি", "কুব", "গম", "লাইজ্ঞে"], "tags": ["O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "সুদানীর", "ফুয়া", "ঘুমোদ্দে", "কিল্লায়"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অইগেই"], "tags": ["O"]}
+{"dialect": "Chittagonian", "tokens": ["খেলা", "হাই"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাছা", "হতা", "হয়ডো"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "ওজ্ঞা", "মাইফোয়া"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতারা", "আর", "জামাইর", "ফোয়ারি", "এক্কান", "অশিক্ষিত", "মাইয়াফোয়ার", "বিয়া", "দিত", "চাইল"], "tags": ["O", "O", "B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আযিয়া", "তোঁয়ারে", "চাইত", "আইবো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "আফন", "লোক", "ইন", "এরিম্মা"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "নো", "বুজে", "আত্তুনও", "ঠেকা", "আসে", "না", "আইও", "বুজাইতাম"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনোত্তুন", "ফরালেহা", "গরা", "ফরিবো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এসমত", "মাইয়াফোয়ার", "লাই", "ইন", "বহুত", "বয়স"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মৈফিয়াইবা", "শাড়ি", "ফরি", "আর", "লই", "দেহা", "গৈর", "তো", "আইসে"], "tags": ["O", "B-OBJ", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনর", "কি", "বিয়া", "ওই", "গেইয়ু", "নি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আমার", "গোলাপি", "রং", "পছন্দ"], "tags": ["O", "B-COL", "I-COL", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এহন", "তোয়াত্তুন", "গাআগাই", "লাগিবো", "তুঁই", "চাইরোমিক্কা", "কিচু", "ন", "দেকিবা"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেয়াক্কুনের", "ফোয়ারিত", "হতাবাত্রা", "হইয়ে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দিন", "দিন", "টমাটুর", "দাম", "বারের", "দে"], "tags": ["O", "O", "B-FOOD", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "খেলাত", "জিত্তো"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "বাংলাত", "হতা", "হইত", "ফারি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফোয়ারে", "কুঝি", "ফাইবেল্লাই", "শুধু", "উনার", "হাসত", "ফোয়ার", "পাসপোর্ট", "কফি", "চবি", "আসিল", "এক্কান"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-OBJ", "I-OBJ", "I-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোঁয়ার", "ফরিবার", "কি", "আঁরে", "মানি", "লইব", "নে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ক্রিকেট", "তুয়ারতুন", "কেন", "লাগে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চারিমিক্কে", "হতর", "হতর", "গাছ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কারোম", "চারা", "না", "অয়", "তাহা", "যায়", "কিন্তু", "ফানি", "চারা", "কেনে", "তাকে", "মানুষ"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-FOOD", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এতেল্লাই", "সম্পর্কগান", "ভালা", "আসিল"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "একজন", "২৩", "বছরর", "মাইয়ে", "ফোয়া"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দুইদিন", "ধরি", "আর", "বহুত", "সরদি", "জর"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুয়ারতুন", "কেন", "লাগে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বহুত", "দিন", "ফর", "অন", "রে", "দেহি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "বাইজ্জা", "যা", "ইচ্ছা", "গরিবো", "বঊ", "হিসাবোত", "আরে", "রাখিবো"], "tags": ["O", "O", "O", "O", "O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["রোগিরে", "হাসপাতালত", "তাহন", "ফরিবু"], "tags": ["O", "B-ORG", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এহন", "তুই", "আর", "হাসে", "মাফ", "সদ্দে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এত", "ঘুম", "কিল্লায়", "আয়েদ্দে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইবা", "একদিন", "পাশর", "গেরাম", "অত", "যাই", "টুফি", "বেচের"], "tags": ["O", "O", "O", "B-LOC", "O", "O", "B-OBJ", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুয়ার", "এত", "ঘুম", "কিল্লায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "বেহার"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["গরত", "আলো", "হাওয়া", "এইল্লে", "ডুকিন্নো", "ফারে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হনিকার", "লাই", "হনিকার", "জিবন", "তিয়াই", "ন", "তাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বউদ্দিন", "আগে", "এক", "গেরামঅত", "এক", "টুফিওয়ালা", "আচিল"], "tags": ["O", "O", "O", "B-LOC", "O", "B-ROLE", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শশা", "এক", "ধরনর", "ফল"], "tags": ["B-FOOD", "O", "O", "B-FOOD"]}
+{"dialect": "Chittagonian", "tokens": ["এরিম্মা", "নানা", "রহম", "ঝামেলা", "হইত", "থাকে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "ফত্তিন", "ফুটবল", "কেলা", "হাইতো", "যাই"], "tags": ["O", "O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "হদিন", "চুটি", "হাডাইয়্যুম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরার", "কাম", "আছে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোঁয়ারো", "বাড়ি", "হন্ডে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "মনর", "ভালোবাসা", "চিরদিন", "তোয়ার", "লাই", "তাকি", "জাইব", "দে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কিচু", "মনে", "ন", "গইরগন", "অনরে", "এক্কান", "হতা", "হয়্যুম", "নে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইন", "অর", "মাযোদ্দি", "মাইয়্যা", "ইবা", "তার", "ফরিবারর", "ফচন্দে", "বিয়া", "গরে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বিয়া", "অইয়েদে", "৯", "বছর"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কিল্লাই", "জানিত্তাইজ্জুম", "না"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এই", "শিশু", "ইবার", "বহুত", "ঠান্ডা", "লাইজ্ঞে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুঁই", "কি", "বইইবা", "ফইরতো", "চ", "নে"], "tags": ["O", "O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "আঁর", "হাচে", "এগিন", "শিক্ত", "চস", "নে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফোয়াইবারে", "আত্তুন", "গম", "লাইগ্যে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "এহন", "তোর", "ডর", "ভাইর", "ফোয়ারিত", "বিয়া", "গইত্তাম", "নো", "চাইর"], "tags": ["O", "O", "O", "B-ROLE", "I-ROLE", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "আরি", "গিয়ি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["স্কুলোত", "জাইয়ুম"], "tags": ["B-ORG", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এহন", "আর", "ইন্দি", "নো", "ওদ্দো", "চো", "চোখ", "ইবা", "তাকে", "অন্য", "মাইয়াফুয়ার", "ইক্কা"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "বহুত", "মেধাবী", "আছিলাম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সে", "জেইল্লে", "আত্তুন", "আসা", "গরে", "এইল্লে", "আই", "নিজেরে", "রাহি"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "নো", "হাইজ্জুম"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এই", "বিষয়ত", "কি", "গইত্তাম", "আই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বিষয়য়ান", "আসলে", "দুচ্চিন্তার"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চলো", "এক্কান", "বিরতি", "লই"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "সিলেট্টুন", "আর", "ফোয়ারে", "দেহা", "গরীরটো", "আইসে"], "tags": ["O", "B-LOC", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হইন্নো", "ফারি", "ফানি", "ফাইয়্যুম", "নে", "ন", "ফাইয়্যুম"], "tags": ["O", "O", "B-FOOD", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মরত", "ফোওয়া", "ইবার", "নানার", "বাড়ি", "বরিশালত"], "tags": ["O", "O", "O", "B-LOC", "O", "B-LOC"]}
+{"dialect": "Chittagonian", "tokens": ["এইতুন", "যাইতামগো", "হইদি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["খুলনার", "মানুষ", "এইল্লে", "সুন্দর", "ন", "অয়"], "tags": ["B-LOC", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শেষ", "বয়সত", "আইয়েরে", "অতে", "এহন", "এন", "এইজ্ঞো", "জঘন্য", "হাম", "গইজ্জে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "একজন", "সরকারি", "কর্মকর্তা"], "tags": ["O", "O", "B-ROLE", "I-ROLE"]}
+{"dialect": "Chittagonian", "tokens": ["আমাযন", "নদি", "দুনিয়ার", "বেজ্ঞুনরতুন", "বরা", "ডর", "নদি"], "tags": ["B-LOC", "I-LOC", "B-LOC", "O", "O", "O", "B-LOC"]}
+{"dialect": "Chittagonian", "tokens": ["এক্কালে", "এক", "রাজার", "এক", "আতি", "আচিল"], "tags": ["O", "O", "B-ROLE", "O", "B-ANI", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হাইতো", "পছন্দ", "গরো"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ওনে", "থানাত", "গিয়িরে", "এইজ্ঞো", "মামলা", "কইজ্জোন"], "tags": ["O", "B-LOC", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বাংলাদেশঅর", "বর্তমান", "ফ্রদানমন্ত্রি", "শেক", "হাসিনা"], "tags": ["B-LOC", "O", "B-ROLE", "B-PER", "I-PER"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "ফরিবারে", "আঁই", "মা", "বাবা", "আর", "ওজ্ঞা", "গুরা", "বইন"], "tags": ["O", "O", "O", "B-REL", "B-REL", "O", "O", "B-REL", "I-REL"]}
+{"dialect": "Chittagonian", "tokens": ["ক্লাস", "অর", "বেজ্ঞুন", "মাইফোয়ার", "লই", "মিশিতাম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["জৈব", "গৌ"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বৃষ্টি", "বাইরলে", "তাপমাত্রা", "কমিবার", "সুখবর", "দিয়ে", "আবহাওয়া", "অফিস"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-ORG"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "পচন্দর", "ফুটবল", "দল", "আর্জেন্টিনা"], "tags": ["O", "O", "B-ORG", "I-ORG", "B-ORG"]}
+{"dialect": "Chittagonian", "tokens": ["বাসাত", "ফোয়া", "উদ্দো", "বেয়াক্কুন", "আসিল"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এই", "ছবি", "ইয়ানর", "নিল", "আকাশ", "বহুত", "সুন্দর"], "tags": ["O", "B-OBJ", "O", "B-COL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কেন", "গরি", "বুজাই", "তারে", "আঁই", "হত", "বালবাসি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "ইবার", "চকোর", "মায়াত", "ফইরগি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["নিযেরে", "হনিকাই", "বেকার", "ন", "বাইব্বন", "মন", "অত", "রাইবান", "শরিরর", "রক্ত", "দি", "আযারও", "মশার", "সংসার", "চলে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ANI", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "অসুস্থ", "অয়", "ফইজ্জি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মাইয়া", "দেহিয়েরে", "ভাইয়ার", "ফসন্দ", "অইয়ে"], "tags": ["O", "O", "B-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মাছ", "হাইতো", "পছন্দ", "গরি"], "tags": ["B-FOOD", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হানা", "শেষ", "গরিয়েরে", "টেলিভিশন", "এর", "সামনে", "গিয়েরে", "বইসসে"], "tags": ["O", "O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["কি", "হানা", "এগিন"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "ফ্রিয়", "লেকক", "হুমায়ুন", "আহমেদ"], "tags": ["O", "O", "B-ROLE", "B-PER", "I-PER"]}
+{"dialect": "Chittagonian", "tokens": ["এইজ্ঞো", "আরেজ্ঞোর", "ফ্রতি", "বোত", "বিশ্বাস", "থাইবো", "ইতারোর", "বালোবাসাত", "ফাল্লা", "ভারী", "ওইবো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "প্রথম", "ভালোবাসা", "আসিল", "ভুল"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আমার", "কালো", "রং", "পছন্দ"], "tags": ["O", "B-COL", "I-COL", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "এহন", "আর", "ফন্না", "হরচ", "দিতোর", "নো", "চায়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তার", "আর", "আর", "স্কুলত", "ফ্রেন্ড", "তারা", "জানিত"], "tags": ["O", "O", "O", "B-REL", "I-REL", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "এদুন", "কেনে", "বুঝোস"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "জামাই", "বেয়াাক্কিসুত", "দোস", "কুজে"], "tags": ["O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরা", "এডে", "বউত", "মজা", "গইরগম"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "বুক", "ন", "লাগে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরা", "সালাম", "গ্রহন", "গরিলাম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["একমাত্র", "মাইফোয়াঅক্কল", "ফারে", "সহজ", "সরলব", "ফোয়াওক্কলর", "মন", "নান", "এরে", "ফুটবল", "টা", "আরি", "কেলা", "হাইতো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["মাইয়াফোয়ারা", "সাতার", "হাডিবেল্লাই", "ভালোবাসিত"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এই", "সাহস", "কান", "আর", "নাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনেকেই", "শকরলাই", "হইতর", "ফালে"], "tags": ["O", "O", "B-ANI", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এরফর", "অইতে", "ইতারা", "দুইজন", "সব্জি", "বাগানত", "যায়", "এরে", "ফেট", "বরি", "হানা", "হাইতো"], "tags": ["O", "O", "O", "O", "B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "এবং", "আর", "ভইন", "ছোড", "ইবা", "সাতার", "হাডি"], "tags": ["O", "O", "O", "B-REL", "I-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেয়াক", "মানুষের", "ভাষা", "এক", "ডইল্লে", "নো"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "হাত", "ইবা", "ধইজ্জো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুয়ার", "বাই", "চকরি", "হদে", "গরে"], "tags": ["O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বহুু", "দিন", "দরিয়েরে", "ইন", "নো", "খুলে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["নিজেরে", "যোগ্য", "গরিয়েরে", "তুলিত্তারিবান"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এক্কাানা", "বেশী", "অই", "গিয়োয়", "খম", "হইলে", "আরেক্কানা", "গম", "ওইতো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["চকরি", "গরর", "দে", "নে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "জামাই", "বিবিন্ন", "মাইফোয়ার", "ফোয়ারে", "আরা", "রাইত", "জাগি", "হতা", "হয়"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অনে", "কি", "হনো", "বাংলা", "কবিতা", "লেকিত", "ফার", "অন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "অনর", "লই", "ফরে", "দেহা", "গইরগম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁর", "বন্দুওক্কল", "আঁরে", "বালবাসা", "দেয়"], "tags": ["O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইতে", "বিদ্যালয়", "অত", "যাই", "বন্দু", "অক্কলর", "ফোয়ারে", "গল্ফ", "গরে"], "tags": ["O", "B-ORG", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["নানা", "আরে", "চাই", "হুশি", "অইয়্যে"], "tags": ["B-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["গুরা", "তাইক্তে", "লতি", "আঁর", "সাইরকল", "চালানোর", "অব্যাস"], "tags": ["O", "O", "O", "O", "B-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এব্বারে", "গম", "চবি"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["হতা", "আছে"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "সকালট", "নাস্তা", "হরিয়ার", "স্কুলত", "যাই", "না"], "tags": ["O", "O", "B-FOOD", "O", "B-ORG", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["নৌকাত", "ঘুড়িত", "বহুত", "বালা", "লাগে"], "tags": ["B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["লাল", "গোলাপ", "কিনি", "দিয়িএ"], "tags": ["B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বিয়া", "অইয়ে", "১", "মাস"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সমাজত", "বেয়াক্কুন", "আরারে", "সম্মান", "দি", "চলে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইবা", "ইবার", "ফরিবার", "ওরে", "বালোবাসে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["শুদু", "এগ্গারি", "ফানি", "অইলেও", "দুওয়া", "দিন", "চলা", "যাইত"], "tags": ["O", "B-OBJ", "B-FOOD", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "জামাাই", "লাতিয়া", "বন্ধু", "তারা", "ফোয়ারিত", "আড্ডা", "মারে", "দে"], "tags": ["O", "B-REL", "O", "B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তার", "হাসদ্দি", "বেয়াগ", "দেসত", "টেয়া", "আসে"], "tags": ["O", "O", "O", "B-LOC", "B-OBJ", "O"]}
+{"dialect": "Chittagonian", "tokens": ["টেবিলত", "দি", "রাইক্কে"], "tags": ["B-OBJ", "B-FOOD", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁই", "চবি", "তুইলত", "পচন্দ", "গরি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দিন", "দিন", "মানসিক", "অসুস্থ", "ওয়", "যাইর", "গয়"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরার", "বেজ্ঞুন", "একসময়", "এক্কোফোয়ারে", "আচি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরা", "যাইয়ুম"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বউ", "খাইবার", "সমত", "হাসি", "কুশি", "মুখত", "কইয়ে", "রান্না", "কেন", "অইয়ে"], "tags": ["B-REL", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["গতহালিয়া", "আব্বু", "আরে", "এক্কান", "ফোয়ার", "ফোয়ারিত", "দেহা", "গরিবেল্লাই", "হইল"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বালা", "লাগে"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যদিও", "আঁই", "কমার", "যোগ্য", "নই", "ফাইরলে", "কমা", "গরি", "দি", "অন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "কি", "এই", "বইওয়া", "ফরিত", "ফার", "অস", "নে"], "tags": ["O", "O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["লবণ", "দিয়েরে", "ফেয়ারা", "হাইতে", "আর", "ভইন", "ছোড", "ইবার", "বহুত", "ফসন্দ", "গরে"], "tags": ["B-FOOD", "O", "B-FOOD", "O", "O", "B-REL", "I-REL", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ফোরালেহা", "গরীরত", "এফফোডাও", "গম", "নো", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "ন", "ফাইজ্জুম", "ফানি", "দিতাম"], "tags": ["O", "O", "O", "B-FOOD", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরে", "হাছা", "হতা", "হয়ডো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["গুড়া", "তাকিতে", "বহুত", "মেধাবী", "আছিলাম"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যৌবন", "আইবর", "আগে", "তারে", "বলবাইসসিলাম", "আবার", "যৌবন", "শেষ", "অইবর", "ফরও", "তারেই", "বালবাইসসম"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "বাবা", "বেরাইম্মা", "অয়", "যাইবো"], "tags": ["O", "B-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["যদি", "সময়", "তাকে", "আঁরা", "আরো", "দেইক্কোম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুঁই", "হন", "ক্লাসত", "ফরো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আযিয়া", "হত", "তারিক"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এডে", "মানুষ", "মরে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আজহাল", "ফোওয়া", "কি", "যে", "গরের"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেজ্ঞিন", "কেন", "নিযাম", "আর", "ফাকা", "লাহের"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "সাইলেও", "আর", "বাবার", "বাসায়", "চলি", "যাইত", "ফারি"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অকল", "মাছ", "ধরে"], "tags": ["O", "B-ANI", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এইজ্ঞো", "মাইয়ার", "ছোগান", "ফুয়ার", "লয়", "প্রেম", "গরের"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুঁই", "যাইবর", "ফর", "তোঁয়ার", "মাইয়্যা", "কেন", "যানি", "আন্ত", "অয়", "গেইয়্যুয়"], "tags": ["O", "O", "O", "O", "B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "চোখোর", "মায়াত", "ফরিগি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["এত", "সুন্দর", "লার", "তার"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "আর", "ফ্রেমিত", "একই", "স্কুলত", "ফইত্তাম"], "tags": ["O", "O", "B-REL", "O", "B-ORG", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অ়দর", "হত়াত", "আইয়ু"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আম", "ইবা", "হন", "হাইয়ে"], "tags": ["B-FOOD", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ঘড়িত", "হতা", "বাজের"], "tags": ["B-OBJ", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইবা", "ইয়ান", "দেহি", "বিয়ুশ", "অই", "গেইয়্যুয়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোয়ার", "বয়স", "হত"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তুই", "কি", "আরে", "বোকা", "ফাইয়ো", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "কিচ্চি"], "tags": ["O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আঁরা", "জিবন", "অত", "ন", "বুইল্লম"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বাংলাদেশঅত", "আঁরে", "বেজ্ঞুনে", "আঁর", "ডাকনামে", "চিনে"], "tags": ["B-LOC", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আচা", "বালবাসা", "ন", "আরে", "মিচা", "বালবাসা", "আরি", "যা", "গই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বেগ", "গুন", "কেন", "আছ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আর", "মতো", "বইন", "ও", "যাইতু", "আসিল"], "tags": ["O", "B-REL", "I-REL", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["ইয়ানতঐ", "এক", "বাংলাদেশী", "ফোয়ার", "ফোয়ারিত", "ফরিচয়", "অয়", "ইয়ার", "ফর", "সম্পর্ক"], "tags": ["O", "O", "B-ROLE", "I-ROLE", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["তোয়ারর", "হাশির", "হাসে", "আর", "বেয়াক্কিসু", "আর", "মানে", "দে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বই", "ফরি"], "tags": ["B-OBJ", "O"]}
+{"dialect": "Chittagonian", "tokens": ["বহুবার", "বেয়াকে", "হতা", "হইয়ে", "বোঝাইত", "চাইয়ে", "যে", "কি", "সমইস্যা", "সমাধান", "নো", "অয়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["দুইয়ান", "অইলো", "কেনে"], "tags": ["O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["অ", "তুঁই", "বউত", "মোটা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আই", "বউতকন", "ইতার", "মুহত", "ইক্কা", "চাই", "থাক্কিলাম"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["সকালোত", "ঘুমোর", "তুন", "উডার", "ফর", "আই", "বালা", "কাজোত", "টিক", "সময়", "কাজে", "লাগাইতো", "চাই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Chittagonian", "tokens": ["আরার", "নামর", "ফ্রয়জন", "নো", "ফরে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একগু", "কুত্তা", "রাস্তাত", "বই", "রইছে"], "tags": ["O", "B-ANI", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাস্তব", "কঠিন", "অইলেও", "মানিয়া", "নিয়া", "মানাইয়া", "চলা", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "ছাদো", "৫০০০", "টার", "বেশি", "মুরগি", "আছে"], "tags": ["O", "B-ORG", "O", "O", "O", "B-ANI", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "বাংলা", "সিনেমা", "দেকতে", "ভালা", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আমার", "বিলাই", "ওর", "লগে", "খেলতে", "যে", "বালা", "ফাই"], "tags": ["O", "O", "B-ANI", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনারার", "আকাইম্মা", "ফুয়া"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "হাছা", "কৌকা"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একটা", "আহত", "শিশুটা", "রাস্তায়", "দাড়িনিত", "কান্দের"], "tags": ["O", "O", "O", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "মাঝে", "প্রায়", "ওউ", "ঝগড়া", "ওয়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "কিতা", "রাত্রে", "খাইছো", "নি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "হারতাম", "নায়"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["পুলিশরে", "হখলতা", "পয়লা", "থাকি", "হেষ", "পর্যন্ত", "খুলিয়া", "খইন", "আফনার", "লগে", "যা", "যা", "অইছে"], "tags": ["B-ROLE", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["গোলাপ", "কিনিয়া", "দিছে"], "tags": ["B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "খারো", "মাত", "মাতে", "না", "খারো", "বাসাত", "যায়", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমারে", "লইয়া", "হারাই", "যাইতাম", "আখাশর", "নীলো"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাংলাদেশো", "মোরে", "সবে", "মোর", "ডাখ", "নামে", "চিনইন"], "tags": ["B-LOC", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়া", "ফুড়ি", "এখজন", "আরোখজনরে", "খুব", "ভালা", "পায়"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তানর", "লগে", "খেউরো", "ভালা", "খাতির", "নাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "এখন", "নিজোর", "মুখেউ", "কয়", "তুমার", "লগে", "আরখবার", "হখলতা", "ঠিক", "করিয়ার"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "জামাই", "হুরুকালো", "তান", "মারে", "আরাইছইন"], "tags": ["O", "B-REL", "O", "O", "B-REL", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমারে", "খুব", "মনো", "পড়ের", "তুমারে", "লাল", "গোলাপ", "দিতাম"], "tags": ["O", "O", "O", "O", "O", "B-COL", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["যেকুনো", "পরিস্থিতি", "মোকাবিলা", "করা", "সম্ভব"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুড়িরে", "দেখিয়া", "ভাইর", "ফছন্দ", "অইছিল"], "tags": ["O", "O", "B-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "ওর", "হাসির", "প্রেমও", "পড়ি", "গেছি", "আমি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আইজ", "সকাইলকু", "আমার", "বন্ধু", "ওগুর", "লগে", "ঝগড়া", "করছি"], "tags": ["O", "O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরা", "জীবনেও", "ভুলতাম", "ফারতাম", "নায়"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "লাগি", "লাল", "জামা", "কিনিয়া", "আনছইন"], "tags": ["O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আইজ", "সকাইলকু", "তার", "লগে", "মাতছি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "চলে", "যাইয়ার", "তোমারে", "আর", "কোনো", "দিন", "ফোন", "দিয়া", "বলবোনা", "একটু", "সময়", "দাও"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-OBJ", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "বই", "ওগু", "দেখাউকা"], "tags": ["O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "ওর", "লগে", "আমার", "মাত", "আছে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বহুতে", "আরো", "কইন", "যে", "বিয়া", "করলে", "মানুষ", "বুলে", "গাধা", "অই", "যাইন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "পড়ালেখা", "খরা", "লাগবো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ইবায়দি", "আমার", "পরিবারর", "লগে", "সম্পর্ক", "রাখতো", "নায়"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["যেরা", "ভাবছিলা", "বড়", "অইয়া", "গরীবর", "সেবা", "করতা", "কিন্তুক", "বড়", "অইয়া", "দেখরা", "নিজেউ", "গরীব"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তাইন", "রাস্তা", "দিয়া", "তান", "গ্রাম", "ওর", "দিকে", "ফিরছিলা"], "tags": ["O", "B-LOC", "O", "O", "B-LOC", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আস্তে", "আস্তে", "দুর্বল", "অই", "গেলাম", "তার", "প্রতি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["পয়লা", "এখটা", "দুকানো", "যাওয়া", "লাগবো"], "tags": ["O", "O", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["যেখানে", "সেখানে", "সেব", "ফালালি", "একবারে", "নিষেদ"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমাতে", "আগে", "হক্কলে", "মায়া", "করতো"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "কিতা", "খেচা", "মোটা", "নি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "বালা", "নি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["খাইতে", "ভালা", "ফাও"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোমার", "ফড়াশোনা", "করিয়া", "কিতা", "অইবো", "যদি", "তুমি", "যারে", "ভালোফাও", "তারেই", "না", "ফাও"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ঢাকার", "মিরপুর", "ও", "কাইল", "তনে", "কারেন্ট", "যাইরো", "না", "কিতার", "লাগি"], "tags": ["B-LOC", "I-LOC", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["নিজোরে", "কুনোসময়", "বাওটা", "ভাববা", "না", "মনো", "রাখবা", "আফনার", "শরীলর", "রখতো", "দিয়া", "হাজার", "মশার", "সংসার", "চলের"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ANI", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এরবাদে", "ঠিক", "করলাম", "তেল", "মারা", "উত্তর", "দিমু"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["রইব্বার", "তাকি", "আমরার", "বিশ্ববিদ্যালয়", "ওর", "ক্লাস", "আরম্ব", "ওইবো"], "tags": ["O", "O", "O", "B-ORG", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "কিতা", "গরম", "লাগের", "নি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "ওর", "বাসাত", "কে", "কে", "আছোইন"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "তো", "হাছা", "ভাবিয়াউ", "ভুলো", "জড়াই", "যাইতাম"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["টুপিয়ালা", "আছিল"], "tags": ["B-ROLE", "O"]}
+{"dialect": "Sylheti", "tokens": ["হউ", "বেটি", "আর", "হে", "মিলিয়া", "আমারে", "গালাগালি", "করতে", "থাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়ান্তর", "সহজ", "সরল", "মনটা", "নিয়া", "ফুড়িন্তে", "ফুটবল", "কেলইন"], "tags": ["O", "O", "O", "O", "O", "O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "মায়াত", "পরছি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হকল", "জেগার", "মাইনষের", "ভাষা", "একলাকান", "নায়"], "tags": ["O", "B-LOC", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বন্ধু", "মোর", "লাগি", "এখটা", "লাল", "গোলাপ", "কিনিয়া", "দিছে"], "tags": ["B-REL", "O", "O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "এক", "ফুয়া", "ওখন", "বাংলাদেশ", "নেভীত", "কাম", "করিয়ার"], "tags": ["O", "O", "O", "O", "B-ORG", "I-ORG", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "হাতার", "দিতে", "ভালা", "পাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তর", "পড়ালেখা", "করা", "লাগবো"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমাইতাইন", "গলা", "খুব", "ভালা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাফর", "টেখার", "উফরে", "বইয়া", "খায়", "নেশা", "খরে", "ফত্তেকদিন", "ঝগড়া", "তার", "নিয়মিত", "কাম"], "tags": ["B-REL", "B-OBJ", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ডিম", "দেওয়ন", "বন্ধ", "করি", "লইছে"], "tags": ["B-FOOD", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["খানিত", "থুরা", "রসুন", "বাড়াইয়া", "দিলে", "আরো", "মজা", "ওইতো"], "tags": ["B-FOOD", "O", "B-FOOD", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বুয়ে", "হক্কলতা", "বেছিয়া", "গ্রামোর", "বাড়িত", "লইয়া", "আচ্চুইন"], "tags": ["B-REL", "O", "O", "B-LOC", "I-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এর", "মাঝে", "ফুড়ি", "ইগু", "তাইর", "পরিবারর", "পছন্দে", "বিয়া", "খরি", "লাইছে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এক", "গালো", "একটা", "ছড়", "লাগাইয়া", "দিমু"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আর", "অউ", "বৎসর", "তাইন", "মোরে", "বাক্কা", "বড়", "খরি", "সারপ্রাইজ", "দিছইন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হখলে", "এখলগে", "বাদ", "অইন", "না"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তাইন", "একদিন", "লগ", "ওর", "গ্রাম", "ও", "টুপি", "বেচছিলা"], "tags": ["O", "O", "O", "O", "B-LOC", "O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "সবর", "সামনে", "মারতে", "মারতে", "বাসাত", "লইয়া", "আয়।"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "হাচাউ", "বাক্কা", "অসহায়", "বোধ", "কোরিয়ার"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "বিশ্বাস", "খরতাম", "ফারছিলাম", "না", "মোর", "বইন", "অলা", "কাম", "করবা"], "tags": ["O", "O", "O", "O", "O", "O", "B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কইরায়", "যে", "থাকার", "হে", "এমনেউ", "থাকি", "যাইবো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "আব্বা", "রাজি", "আছলা", "না", "তেবো", "মুই", "আর", "আম্মায়", "জোর", "খরি", "বিয়া", "খরাইছি"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "খুব", "ভালা", "ফায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "হাত", "খরচ", "আমার", "আব্বুয়ে", "দেইন"], "tags": ["O", "B-OBJ", "I-OBJ", "O", "B-REL", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুরিগু", "অংকত", "বাদ"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এখটা", "ছুটো", "মনা", "বিছনাত", "লাফাইয়া", "উটের"], "tags": ["O", "O", "O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "কিতা", "পড়া", "লেখা", "করতা", "ফারোইন", "নি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["কামো", "যাইতাম", "চায়না"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একজন", "লোক", "মারা", "গেছইন"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুটবল", "ম্যাচও", "বিশ্বকাপ", "জিতছে", "আর্জেন্টিনা"], "tags": ["B-OBJ", "O", "B-OBJ", "O", "B-ORG"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "নাস্তা", "খাইয়া", "বাদে", "স্কুল", "ও", "যাই"], "tags": ["O", "B-FOOD", "O", "O", "B-ORG", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "নিজে", "কিচ্চু", "এখটা", "খরইন"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একমাত্র", "ফড়িন্তরা", "ফারে", "সংসার", "গুঁজিতে", "রাকতে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হন", "লইগা", "যাউকগা"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["খেউরু", "লাগি", "খেউরুর", "জীবন", "থামিয়া", "থাকে", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["জীবনে", "বহুত", "গান", "হুনি", "এরবাদেও", "খেনে", "জানি", "না", "অউ", "গান", "গুইন্তর", "মতো", "অতো", "ভালা", "লাগে", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আপেল", "ভালা", "ফাই", "না"], "tags": ["O", "B-FOOD", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হউ", "ফুুল", "অতার", "রঙিন", "মেলা", "দেখিয়া", "হারলে", "মন", "ভরি", "যায়"], "tags": ["O", "B-OBJ", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "লগে", "মাত্তে", "বাক্কা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বিয়ানে", "ফুটবল", "খেলাইছি"], "tags": ["O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["কাম", "ও", "ভাগল", "দিও", "না"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["দয়া", "খরি", "তুমি", "তুমার", "পরিবারর", "ফছন্দে", "বিয়া", "খরি", "লাও"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মন", "বালা", "করার", "লাগি", "তোমরা", "কিতা", "কর"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমারে", "লইয়া", "মোর", "হখল", "কল্পনা"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আম্মার", "সামনে", "তারা", "যা", "তা", "ঝগড়া", "করইন"], "tags": ["B-REL", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মেকআপ", "কিলা", "ওইছে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কিলাখান", "আছো"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["কিলা", "বুঝাইতাম", "তারে", "মুই", "কতখান", "ভালাপাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তেবো", "মোর", "গার্লফ্রেন্ড", "মোরে", "খইছে", "মুই", "তাইরে", "যেলা", "রাখমু", "তাই", "হলাউ", "থাখবো"], "tags": ["O", "O", "B-REL", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "বিদেশে", "গিয়া", "অনেক", "বেরাইতে", "চাই"], "tags": ["O", "B-LOC", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আইজ", "বাক্কাদিন", "বাদে", "তার", "লগে", "মাতছি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "কিতা", "এখনও", "আফনার", "ভালোফাওয়ার", "মানুষটার", "মাত", "মনে", "পড়ে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মাত্তা", "ফারোইন", "না"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বউয়ে", "মেকআপ", "তুলিয়া", "তুলিয়া", "যাইরাম", "ওউ", "না", "আইজ"], "tags": ["B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বার", "খোঁজখবর", "রাখার", "চেষ্টা", "খরি", "হখলসময়"], "tags": ["B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "জামাইর", "হখলতাত", "তাইন", "দুষ", "দেখইন"], "tags": ["O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "একগু", "উপহার", "দিছে"], "tags": ["O", "O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুই", "কিতা", "ওউ", "বই", "ওগু", "পড়তে", "ফারোস", "নি"], "tags": ["O", "O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বইনে", "আমারে", "খুব", "ভালা", "ফায়"], "tags": ["B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুরি", "ইগুয়এ", "বিয়া", "করতো", "না", "কই", "দিছে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বায়", "মোর", "লাগি", "বেগুনি", "জামা", "কিনিয়া", "আনছইন"], "tags": ["B-REL", "O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওলাউ", "যাইবো", "গি", "সময়", "কিন্তু", "থাকি", "যাইবো", "অলান", "কিছু", "গান"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "খেলাত", "জিতলা"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["চা", "খাওয়ায়", "অভ্যাস"], "tags": ["B-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ঠিক", "ওইলো", "হকলে", "মিলিয়া", "যাইমু"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হাতও", "বেদনা", "করের"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাসাত", "কে", "কে", "আছোইন"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ধানক্ষেত", "ফার", "ওইতেউ", "একগু", "বড়", "পুকরি"], "tags": ["B-LOC", "O", "O", "O", "O", "B-LOC"]}
+{"dialect": "Sylheti", "tokens": ["সবুজ", "রঙ", "ওর", "শাড়ি", "কিতা", "তোমার", "এক্স", "কোনো", "বান্ধোবীর", "পছন্দ", "আছিল", "নি"], "tags": ["B-COL", "I-COL", "O", "B-OBJ", "O", "O", "O", "O", "B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["দাদিয়ে", "অবাক", "চউখে", "আমার", "বায়দি", "চাইলা"], "tags": ["B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বার্সেলোনা", "ফুটবল", "ক্লাব", "বাক্কা", "জনপ্রিয়"], "tags": ["B-ORG", "I-ORG", "I-ORG", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তারা", "তিনগু", "ভাই", "আছিল", "কিন্তু", "হেরার", "মাঝে", "মিল", "আছিল", "না"], "tags": ["O", "O", "B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বিয়ানবালা", "কাজ", "করো"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনারা", "আগে", "যাউকা"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোমার", "সুন্দর", "সু্ন্দর", "ছবিগুলি", "দেখিয়া", "খুব", "আনন্দ", "পাইছি"], "tags": ["O", "O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এই", "শিশুটার", "অনেক", "ঠান্ডা", "লাগসে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আফনার", "লগে", "বাদে", "দেখা", "করিয়ার"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তারার", "ফেমিলিগত", "ভাবে", "বিয়া", "অইছে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আইজকাইল", "হুরু", "ইতায়ও", "পাত্তা", "দিরা", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমাইতান", "ওর", "ভাইরে", "দেখলাম"], "tags": ["O", "O", "B-REL", "O"]}
+{"dialect": "Sylheti", "tokens": ["রাস্তা", "বায়দি", "হাটিয়া", "যাইরো"], "tags": ["B-LOC", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "তো", "আরুয়া", "অউ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["শাড়িটায়", "আমারে", "কিলা", "লাগের"], "tags": ["B-OBJ", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমাইতাইন", "ওর", "ক্রিকেট", "কিলা", "লাগে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আম্মা", "মুই", "খেনে", "অউ", "জাগাত", "গেলাম"], "tags": ["B-REL", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "বাঁইচ্চা", "আছইন", "নি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "লেখা", "অসাধারণ"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "মাঝে", "পিরিতর", "কুনো", "কমতি", "নায়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একটা", "শব্দ", "র", "বউত", "লাকান", "অর্থ", "থাকতো", "ফারে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "কিতা", "আমার", "লগে", "যাইবায়", "নি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "সোকাইলকু", "উঠাইয়া", "চা", "খাওয়ায়", "অভ্যাস"], "tags": ["O", "O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["দরজার", "কান্দাত", "দুইজন", "বইয়া", "গিটার", "বাজাইরো"], "tags": ["B-OBJ", "O", "O", "O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমার", "কিতা", "পড়ালেখা", "ভালা", "লাগে", "নানি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুই", "হর", "ওখান", "তাকি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তর", "গাউ", "কুন", "জাগাত"], "tags": ["O", "B-LOC", "I-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["লাগা", "বাড়ির", "ফুড়িটারে", "ভালা", "লাগছিল", "বাদে", "জানলাম", "তাই", "ছুটির", "দিনও", "কলেজো", "যায়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-ORG", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "একলা", "আচলাম"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "যে", "ফুরিরে", "বালা", "ফাও", "হউ", "ফুরি", "ওগু", "ঢাকাত", "থাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "B-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["পুতুল", "ওর", "ওতার", "লাগিউ", "খুব", "মন", "খারাপ"], "tags": ["B-OBJ", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["সকালে", "ঘুম", "থাকি", "উটিয়া", "মুই", "ভালা", "কামে", "ভালা", "সময়", "দিতাম", "চাই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "আমার", "গ্রাম", "ওর", "বাড়িত", "আইছিল"], "tags": ["O", "O", "B-LOC", "O", "B-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["ইগুয়ে", "ফোনে", "মাতে"], "tags": ["O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["হাত", "মুখ", "ধইয়া", "হে", "নাস্তা", "খানিত", "বইলো"], "tags": ["O", "O", "O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["নাইকল", "থাকি", "নাইকল", "ফানি", "পাওয়া", "যায়"], "tags": ["B-FOOD", "O", "B-FOOD", "I-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "চাইরাম", "ট্রেনিং", "থাকি", "ফিরিয়াউ", "তাইরে", "বিয়া", "খরিলতাম"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "আগে", "দেখছি", "না"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "অনেক", "ভালা", "রান্ধে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ভিডিও", "বানানির", "কিতা", "দরকার", "আছিল"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "আরো", "এখ", "বত্শর", "বাদে", "বিয়া", "খরতাম", "চাই"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "চাইলে", "আমি", "চান্দ", "আনিয়া", "দিমু"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাক্কা", "দিন", "আগে", "এক", "গ্রামো", "এক", "টুপিয়ালা", "আছিল"], "tags": ["O", "O", "O", "O", "O", "O", "B-ROLE", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "রাজশাহীত", "গেছে", "গিয়া"], "tags": ["O", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "ওতোতা", "বুঝো", "কিলা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "প্রতিদিন", "খেলাধুলা", "করতে", "ভালা", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওউ", "বাড়ি", "ওগু", "আমরার"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়াটারে", "মোর", "একদমই", "ভালা", "লাগে", "নাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আর", "থুরা", "বড়", "ওইলে", "কিতা", "করবো"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বিয়া", "করার", "পাঁচ", "বছর", "বাদে", "ওখন", "আমি", "স্মার্ট", "ওইছি"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এই", "আরুয়া", "কোনো", "বিষয়", "জানে", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "পরিবার", "ও", "আম্মার", "অবদান", "ওউ", "সব", "তাকি", "বেশি", "বলয়া", "আমি", "মনো", "করি"], "tags": ["O", "O", "O", "B-REL", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "বাক্কা", "কয়দিন", "আগে", "জানতাম", "ফারছি", "মোর", "আফায়", "পরকীয়াত", "আছইন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "বিরুদ্ধে", "বুঝাইছে", "যে", "মুই", "মোর", "জামাইরে", "তাবিজ", "খরিয়া", "নিজর", "বাড়ি", "থাকি", "সরাই", "লাইছি"], "tags": ["O", "O", "O", "O", "O", "O", "B-REL", "B-OBJ", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "এখান", "কঠিন", "সমস্যা", "লইয়া", "হাজির", "হইছি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফত্তেকদিন", "ঘুমাই", "যাওয়ার", "আগে", "ভাবি", "যাই", "অউক", "বিয়া", "খরার", "আরোখটা", "দিন", "আওগাইছে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বহুত", "ভালা", "ছবি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["দুই", "ভাইর", "মাঝে", "জাগা", "জমিন", "লইয়া", "মাইর", "অয়"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাড়ি", "থাকি", "ফুয়া", "দেখা", "শুরু", "কর্লা"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "জামাইয়ে", "মদ", "খাইয়া", "রাইত", "ওর", "পর", "রাইত", "বন্ধু", "ইতাইন্তোর", "লগে", "আড্ডা", "মারে"], "tags": ["O", "B-REL", "B-FOOD", "O", "O", "O", "O", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["সেখানে", "বহুত", "পুলিশ", "দেইখ্খা", "বাসার", "দিকে", "আইফরছিলাম"], "tags": ["O", "O", "B-ROLE", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "বাপরে", "ছিনি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "মজার", "মজার", "মাত", "হুনলে", "হারাদিন", "মন", "ভালা", "থাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "জন্মদিন", "কবে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "পরিবারর", "অর্থনৈতিক", "অবস্থা", "অখন", "খুব", "মান্দা"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "মাতবায়", "না"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওউ", "ফয়লা", "হে", "ঢাকাত", "আইছে"], "tags": ["O", "O", "O", "B-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["অতো", "অতো", "সংসারর", "ঝামেলা", "দেকিয়া", "পোস্ট", "খরা"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একটা", "শিশুকে", "একমাত্র", "তার", "মাইয়ের", "কোলেই", "মানায়"], "tags": ["O", "B-REL", "O", "O", "B-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["কতলা", "মাইনষে", "ফিতা", "লইয়া", "মাপাজোখ", "করলো"], "tags": ["O", "O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হাছাহাছির", "ভালোবাসা", "হারে", "না", "মিছামিছিরটা", "হারি", "যায়"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "হাত", "খান", "ধরিয়া", "সামনে", "আওগাইয়া", "যাও", "আমরা", "আর", "পিছেদি", "ফিরিয়া", "দেখতাম", "নায়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "না", "বুঝিয়াউ", "অইন্যরে", "দোষ", "দিতো", "আছলো"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["গান", "গাইতে", "ফারতায়", "না"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "একটা", "বাদ", "মানুষ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "কিতা", "আমারে", "বালা", "ফাও", "না", "নি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "ফুড়ি", "ইগুর", "লগে", "যুগাযুগ", "খরে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোরে", "ভালাপাইয়া", "থাখলে", "অতোখান", "উফোকার", "খরো", "পায়ো", "পড়ি", "তুমার"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "হনো", "লইয়া", "যাউকা"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরা", "কিতার", "লাগি", "যাইয়ার", "না"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "কিতা", "খামারর", "পশু", "পছন্দ", "করইন", "নি"], "tags": ["O", "O", "B-LOC", "B-ANI", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়া", "ইগুয়ে", "দুই", "বছর", "পরে", "বিয়া", "করতো", "চায়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একগু", "বই", "নিয়া", "ওতো", "ঘটনা", "ঘটি", "যাইবো"], "tags": ["O", "B-OBJ", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বুয়ে", "বখলম", "ফুয়ার", "লগে", "বিয়া", "দিতা", "চাইছলা"], "tags": ["B-REL", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "লইগা", "যাউকগা"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["চল", "দুইজনে", "হাতো", "ধরিয়া", "হারাই", "যাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমারে", "অফমান", "করে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফয়সাআলা", "মাইনষে", "ঘোড়া", "আর", "হাত্তির", "খেলার", "দেখতো"], "tags": ["O", "O", "B-ANI", "O", "B-ANI", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমাকে", "দেখিয়া", "ভেমতালা", "লাগিয়া", "উবাই", "রইছিলাম"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তারে", "কাজল", "দিলে", "বাক্কা", "ভালা", "লাগে"], "tags": ["O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "বিকালে", "ঘুমাই", "গেছলাম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আর", "খত", "ছুটি", "কাটাইতাম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "সমুদ্র", "পাড়ি", "দিমু"], "tags": ["O", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মানুষ", "কে"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["অউ", "বিষয়ে", "আর", "মাততাম", "চাইয়ার", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বিলাই", "বাক্কা", "আরামপ্রিয়", "প্রাণী"], "tags": ["B-ANI", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "নিজর", "ফরিবার", "লইয়া", "বইন"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুর", "আম্মারে", "খইলাম", "আব্বায়", "হুনতা", "চাইছইন", "এখটু", "সান্ত্বনা"], "tags": ["O", "B-REL", "O", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "আমারে", "চিনো", "নি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ঢাকা", "বাংলাদেশর", "রাজধানী"], "tags": ["B-LOC", "B-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওখানো", "মানুষ", "মরে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বিকালে", "আম্মা", "আমার", "লাগি", "শসার", "সুপ", "রান্দা", "করছইন"], "tags": ["O", "B-REL", "O", "O", "B-FOOD", "I-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কিতা", "তোমার", "ভুল", "বুঝতর", "ফারছোনি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মৌসুমী", "আফারে", "কইছি", "অলাখান", "এখটা", "ছবি", "আমরারে", "আবার", "উপহার", "দেইন"], "tags": ["B-PER", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "৩", "বত্শরের", "পেরেম"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "পড়ালেখা", "করা", "উচিত"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওউ", "কলম", "ওগু", "লৌকা"], "tags": ["O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ক্রিকেট", "খেলুম"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "খতা", "এখান", "অউ", "ফুয়াইন্তর", "লগে", "কিওর", "দরখার", "থাকতো", "পারে।"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমাইতাইন", "চাকরি", "করছ", "নই"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুল", "দিয়া", "সাজাইয়া", "রাখছি", "আমার", "অউ", "মন", "তুমি", "আইলে", "দুইজন", "মিলিয়া", "সাজাইমু", "জীবন"], "tags": ["B-OBJ", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["রাজশাহীত", "গেছে", "গিয়া"], "tags": ["B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওখন", "আবার", "একগু", "ফুরিরে", "বউত", "বালা", "ফাই"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোমার", "মত", "মানুষেরা", "কখনো", "ঠিক", "হবে", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["কিন্তু", "তুমি", "এখন", "অতউ", "ভালা", "আছো", "যেন", "আমি", "মানতাম", "ফারিয়ার", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুড়ি", "তাইর", "পরিবার", "লইয়া", "ইদর", "খয়েকদিন", "আগে", "দেশো", "আওয়ার", "খতা", "আছিল"], "tags": ["O", "O", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়া", "কোন", "ধরনের", "মামলা", "চায়", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["সকালকু", "কুন্টা", "খাইতে", "ভালা", "লাগে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "ফুফু", "চাচাইন্তেও", "আমরার", "দেখতে", "পারতো", "না"], "tags": ["O", "B-REL", "B-REL", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["নিজোরে", "যোগ্য", "খরি", "তুলতা", "পারইন"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইনরে", "ছাড়া", "আমি", "বালা", "নাই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["যাই", "অউক", "আসল", "মাতো", "আই"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মিল", "আছিলো", "না"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "কিতা", "আমারে", "বালা", "ফাও", "নি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বায়", "মোর", "লাগি", "সাদা", "জামা", "কিনিয়া", "আনছইন"], "tags": ["B-REL", "O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "মনের", "ভালোবাসা", "চিরদিন", "তোমার", "লাগি", "থাইকা", "যাইবো"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["গরমর", "সময়", "শশা", "বেশি", "মিলে"], "tags": ["O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরা", "ওতোও", "বালা", "নায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "বহুত", "ভালা", "মানুষ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["থুরা", "আগেউ", "ঝাড়ু", "দেওয়া", "অইছে"], "tags": ["O", "O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমাজন", "নদী", "দুনিয়ার", "সব", "তাকি", "বড়", "নদী", "হিসাবে", "পরিচিত"], "tags": ["B-LOC", "I-LOC", "B-LOC", "O", "O", "O", "B-LOC", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "তাইর", "চোউখের", "মায়াত", "পরছি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["খোঁচা", "মারার", "মতো", "মাত", "আছেউ", "যে", "আমার", "দুইগু", "বিয়া"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "ভালা", "লাগে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ইগু", "বল", "দিয়া", "খেলার"], "tags": ["O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "হাচাউ", "বাক্কা", "অসহায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোমার", "কাম", "আছে"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কিতা", "জামরুল", "খাও", "নি"], "tags": ["O", "O", "B-FOOD", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "বিলাই", "ওর", "নাম", "মিনু"], "tags": ["O", "B-ANI", "O", "O", "B-ANI"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "ওর", "সুন্দরতাত", "আমি", "মুগ্ধ"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["গত", "নয়", "বছ্রে", "এখটানা", "নয়", "দিনর", "লাগিও", "তারা", "মোর", "লগে", "মাতছইন", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["শারি", "পিন্দিয়া", "মর", "লগে", "দেখা", "করাত", "আইছিল"], "tags": ["B-OBJ", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "হখল", "এখলগে", "আছি"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["লইগা", "যাউকগা"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["পড়ার", "ইচ্ছাউ", "করের", "না", "আইজ"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তারে", "দেওয়া", "কথাগুইন", "মাঝে", "মাঝে", "মনে", "আইলে", "বাক্কা", "হাসি", "আয়"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আর্জেন্টিনার", "ফুটবল", "দলরে", "সমর্থন", "করি"], "tags": ["O", "B-ORG", "I-ORG", "I-ORG", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ঘুমাই", "যাও"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "কিতা", "ওউ", "বইটা", "পড়তা", "ফারবা", "নি"], "tags": ["O", "O", "O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "আফনার", "তাকি", "পরামর্শ", "চাইয়ার"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ভালা", "পাওয়া", "মানে", "এখজন", "আরোখ", "জনরে", "বুঝতে", "পারা"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "গাার্লফ্রেন্ডর", "বয়স", "উন্নিশ", "বৎসর"], "tags": ["O", "B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হাসি", "যে", "সুন্দর"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হুরুতারে", "এখমাত্র", "তারার", "মার", "কুলেউ", "মানায়"], "tags": ["O", "O", "O", "B-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "মোর", "জামাইর", "ভালোবাসা", "চাই"], "tags": ["O", "O", "B-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["করতাম", "কিলাখান"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["চলো", "থুরা", "থামি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["অতা", "গান", "হুরু", "থাকি", "হুনিয়া", "বড়", "অইছি"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ইচা", "মাছ", "খাইতে", "বেশি", "ভালা", "লাগে"], "tags": ["B-FOOD", "I-FOOD", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "জাামাই", "বাক্কা", "ফুড়িন্তর", "লগে", "হারা", "রাইত", "জাগিয়া", "মাতে"], "tags": ["O", "B-REL", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফয়লা", "বালিশ", "ওর", "তলা", "ওগু", "হাতাইলা"], "tags": ["O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ওউ", "ব্যাপারও", "শিওর", "নায়"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তার", "আর", "মোর", "ইস্কুল", "ফ্রেন্ডরা", "সবে", "জানতা"], "tags": ["O", "O", "O", "B-REL", "I-REL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তউ", "পুলিশর", "উফরে", "চাপ", "আইবো"], "tags": ["O", "B-ROLE", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মানুষ", "যার", "যারি", "নিজর", "লাখান"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["হে", "বাক্কা", "আগে", "তার", "ইস্কুলর", "একটা", "ফুড়িরে", "ভালা", "পাইতো"], "tags": ["O", "O", "O", "O", "B-ORG", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমি", "যে", "ফুয়ারে", "ভালা", "ফাই", "ইগুয়ে", "আমার", "ফেমিলিরে", "সম্মান", "দেয়", "না"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "এখটা", "ফুড়ি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "জামাই", "তিন", "বছর", "তনে", "বিদেশ", "আছোইন"], "tags": ["O", "B-REL", "O", "O", "O", "B-LOC", "O"]}
+{"dialect": "Sylheti", "tokens": ["অতা", "লইয়া", "আমি", "সমস্যা", "খরছি", "না"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোমরা", "কিতা", "গল্প", "র", "বই", "পড়তে", "বালা", "ফাও", "নি"], "tags": ["O", "O", "B-OBJ", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মুই", "তান", "লগে", "আস্তা", "রাইত", "জাগিয়া", "জোনে", "মাততাম"], "tags": ["O", "O", "O", "O", "O", "O", "B-OBJ", "O"]}
+{"dialect": "Sylheti", "tokens": ["নানার", "জটিল", "অসুখ", "আছলো"], "tags": ["B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ফুয়া", "বল", "দিয়া", "খেলার"], "tags": ["O", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["রাত্রে", "বারইবায়", "নি"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["অউ", "মনা", "ইগু", "বাক্কা", "বেমারি"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["মোর", "পরিবারর", "হখলরে", "লইয়া", "আজেবাজে", "মাতে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এই", "গানটি", "আমার", "খুব", "ভালা", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "কিতা", "বই", "পড়ার", "অভ্যাস", "আছে", "নি"], "tags": ["O", "O", "B-OBJ", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বনানীর", "কিতা", "দরকার", "আছিল"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তোরে", "ধন্যবাদ", "ওলা", "বালা", "একটা", "বই", "ওর", "খোঁজ", "আমারে", "দেওনের", "লাগি"], "tags": ["O", "O", "O", "O", "O", "B-OBJ", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কিতা", "আমার", "লাগি", "বার", "চাইতায়", "ফারবায়"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমরার", "যৌথ", "পরিবার", "আছিল", "নানার", "বাড়িত"], "tags": ["O", "O", "O", "O", "O", "B-REL"]}
+{"dialect": "Sylheti", "tokens": ["বউত", "শব্দ", "র", "উচ্চারণ", "আলাদা", "ওয়"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "জীবনো", "তুমি", "ছাড়া", "খেউ", "নাই"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আবেগ", "ওয়ালা", "মানুষ", "খুব", "আরুয়া", "অই", "থাকে"], "tags": ["O", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তার", "ইস্কুলো", "গিয়া", "পড়ালেখা", "খরতো", "ভালা", "লাগে", "না"], "tags": ["O", "B-ORG", "O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ইখটা", "এখ", "ধরনর", "যুগাযুগ"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["যাওয়া", "আওয়ার", "আসল", "পথ", "আছিল", "নৌকা"], "tags": ["O", "O", "O", "O", "O", "B-OBJ"]}
+{"dialect": "Sylheti", "tokens": ["তুমিতাইন", "কিতা", "চাও", "তে"], "tags": ["O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বায়", "মোর", "লাগি", "সাদাজামা", "কিনিয়া", "আনছইন"], "tags": ["B-REL", "O", "O", "B-COL", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমি", "কালকে", "আইও"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["লাল", "জামা", "কিনিয়া", "আনছইন"], "tags": ["B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["কিছুদিন", "বাদে", "পারুলে", "নিজেউ", "জানাইলো", "বই", "ওগু", "ফাওয়া", "গেছে"], "tags": ["O", "O", "B-PER", "O", "O", "B-OBJ", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ডাকবা", "না"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ঢাকাত", "আমার", "চাকরি", "ওইছে"], "tags": ["B-LOC", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনার", "লগে", "দরখারি", "খতা", "আছে"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["একগু", "পোড়াবাড়ি", "আছিল"], "tags": ["O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আফনে", "কিতা", "আমারে", "আগে", "কোনোদিন", "দেখছিলানি"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["উঠি", "যাইও"], "tags": ["O", "O"]}
+{"dialect": "Sylheti", "tokens": ["ছবি", "তোলার", "বাদে", "আমারে", "কিলা", "লাগে"], "tags": ["O", "O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["তুমার", "হখল", "খতা", "মানিয়া", "নিমু"], "tags": ["O", "O", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["শিশুটা", "একটা", "মুরগীর", "বাচ্চা", "কোলো", "নিছইন"], "tags": ["O", "O", "B-ANI", "I-ANI", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আমার", "দুই", "নাম্বার", "বিয়া", "লইয়া", "আমার", "নিজ", "ওর", "কাকা", "মামাইন্তে", "খোঁচা", "মারিয়া", "মাতোইন"], "tags": ["O", "O", "O", "O", "O", "O", "O", "O", "B-REL", "B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["শিক্ষকরাও", "তারার", "লগে", "আছোইন"], "tags": ["B-ROLE", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাংলাদেশ", "ওর", "প্রধানমন্ত্রীর", "নাম", "কিতা"], "tags": ["B-LOC", "O", "B-ROLE", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["আব্বায়", "মোর", "লাগি", "নীল", "জামা", "কিনিয়া", "আনছইন"], "tags": ["B-REL", "O", "O", "B-COL", "B-OBJ", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["এই", "শিশুটা", "পাকা", "কইফল", "খাইরা"], "tags": ["O", "O", "B-FOOD", "I-FOOD", "O"]}
+{"dialect": "Sylheti", "tokens": ["যতদিন", "ইচ্চা", "আব্বার", "বাসাত", "থাকমু", "আব্বার", "সেবা", "যত্ন", "খরমু"], "tags": ["O", "O", "O", "O", "O", "B-REL", "O", "O", "O"]}
+{"dialect": "Sylheti", "tokens": ["বাড়িত", "কইলাম", "আমি", "অউ", "বিয়াত", "রাজি"], "tags": ["O", "O", "O", "O", "O", "O"]}

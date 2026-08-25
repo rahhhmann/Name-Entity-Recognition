@@ -1,0 +1,30 @@
+Paper Title:
+"Towards Dialect-Aware Bangla NER: A Multi-Task Benchmark for Sylheti and Chittagonian Low-Resource Dialects"
+
+Experimental Setup (3 analysis):
+Analysis 1 — Model Comparison (RQ1: Which model best handles dialect NER?)
+ModelF1PRmBERT + CE0.62750.62650.6644BanglaBERT + CE0.62980.63450.6611BanglaBERT + Focal0.67250.64940.7194
+Framing: "Focal Loss দিয়ে optimization strategy পরিবর্তন করলে +4.27% F1 improvement হয়, কিন্তু encoder choice (mBERT vs BanglaBERT) এর effect মাত্র +0.23% — dialect data-তে loss function বেশি গুরুত্বপূর্ণ।"
+
+Analysis 2 — Per-dialect Performance (RQ2: Do models generalize across dialects?)
+ModelSylheti F1Chittagonian F1mBERT+CE0.72620.5751BanglaBERT+CE0.73180.5803BanglaBERT+Focal0.77660.6244
+Framing: "সব model-এ Chittagonian consistently lower — গড়ে ~15% gap। Chittagonian linguistically more divergent from standard Bangla।"
+
+Analysis 3 — Cross-dialect Transfer (RQ3: Are dialects mutually transferable?)
+SettingF1In-domain (BanglaBERT+Focal)0.6725Syl → Chit0.4921Chit → Syl0.6154
+Framing: "Asymmetric transferability observed — Chittagonian→Sylheti transfer (0.6154) significantly outperforms Sylheti→Chittagonian (0.4921), suggesting Sylheti has broader linguistic coverage. Cross-dialect gap of 0.1187 confirms dialect boundary as a significant challenge."
+
+Reviewer-proof করতে এই জিনিসগুলো অবশ্যই mention করো:
+Limitations section-এ:
+
+PER (n=7) এবং ANI (n=12) sparse — macro F1-এ cautiously interpret করতে হবে
+Transfer experiment-এ early stopping ব্যবহার করা হয়েছে fixed epoch নয়
+Mixed training Focal-এর সাথে identical কারণ dataset already mixed — ভবিষ্যতে dialect-specific pretraining explore করা যাবে
+
+Methodology section-এ:
+
+Focal Loss γ=1.0, sqrt smoothing, cap=3.0 — class imbalance handling
+All-O downsampling 35% — dataset imbalance mitigation
+Seed=42, early stopping patience=2 — reproducibility
+
+এই framing দিলে reviewer-এর কোনো obvious question থাকবে না।

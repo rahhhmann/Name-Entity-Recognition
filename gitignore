@@ -1,0 +1,36 @@
+# ── Model artifacts ──────────────────────────────────────────────────────
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+checkpoints/
+outputs/
+runs/
+wandb/
+
+# ── Python ───────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# ── Virtual environments ────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Jupyter / Kaggle ─────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS / editor cruft ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Env / secrets ────────────────────────────────────────────────────────
+.env
+*.env.local

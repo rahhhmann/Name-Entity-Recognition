@@ -1,0 +1,12 @@
+# ── Data preparation pipeline (script 01) ───────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0      # train_test_split for dialect-level stratified splitting
+
+# ── NER model training & evaluation (optional, GPU recommended) ────────────
+# Uncomment if you're running mBERT / BanglaBERT training, not just data prep.
+# torch>=2.2.0
+# transformers>=4.42.0
+# datasets>=2.20.0
+# seqeval>=1.2.2         # Precision / Recall / Macro F1 for BIO-tagged sequences
+# accelerate>=0.31.0
